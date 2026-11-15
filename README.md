@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 2nd Year Information Technology student  
+🎓 3rd Year Information Technology student  
 🏗 Co-Founder & Core Developer at **CodeHost** (Live since 2023)
 
 I build real systems, not just projects.
